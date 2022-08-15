@@ -3,7 +3,7 @@
 ### Description 
 For this assignment you have to implement an application that aggregates news from two different APIs. The APIs you'll be using are [**Reddit**](https://www.reddit.com/dev/api/ "Reddit") and [**News API**](https://newsapi.org/ "News API").
 
-The application that you submit must have thoughtful design decisions, well documented and unit tested code. This assignment should not take more than 5 hours to complete.
+The application that you submit must have thoughtful design decisions, well documented and unit tested code.
 
 ### Functions
 The two functionalities that need to be implemented are "list" and "search".
@@ -68,8 +68,6 @@ There are some constraints that you should be aware of. Not completing any of th
 
 ### Assessment
 Primarily, we will be assessing good **design decisions**. To do this, we have a hidden API that we have written that has different specifications than the ones that have been provided above. We will be integrating my own API into your news aggregator. It needs to be a simple and clear integration, the simpler the better.
-
-Secondly, we will be assessing good **application performance**. The overall speed of the application should not be affected by poor API speed. You need to be creative on how to solve this problem. *Suggestion: look into LRU caches.*
 
 In addition, we will be assessing the following points:
 - Python Proficiency
